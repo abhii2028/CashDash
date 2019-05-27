@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cash Dash</string>
+    <string name="otpNote">I still don\'t trust you. \nTell me something that only two of us know.</string>
+    <string name="phoneNote">You\'re cute. \nCan i have your number?</string>
+    <string name="map_key" translatable="false">AIzaSyCZGK8Uh4M_oMF80VuRA7V8-yQeKwYO6kg</string>
+</resources>

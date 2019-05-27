@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007383980679",
+    "firebase_url": "https://cash-dash-607b5.firebaseio.com",
+    "project_id": "cash-dash-607b5",
+    "storage_bucket": "cash-dash-607b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007383980679:android:a7885642526d9fef",
+        "android_client_info": {
+          "package_name": "com.cashdash.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007383980679-eit1fffmiqteblv725coqmn17en9bhtb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashdash.finalproject",
+            "certificate_hash": "c075663b0ba52494e2d073f1d37b25a0ecb2abe5"
+          }
+        },
+        {
+          "client_id": "1007383980679-jn67rju3rtt1n905f8qnqq09rfs062p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJ7FPnXlBOSyr0oxEL7zsyWriFShRs2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007383980679-jn67rju3rtt1n905f8qnqq09rfs062p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

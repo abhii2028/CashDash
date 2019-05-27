@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498db</color>
+    <color name="colorPrimaryDark">#2c3e50</color>bdc3c7
+    <color name="colorAccent">#2980b9</color>
+
+    <!-- Flat UI Colors -->
+
+    <color name="tealLight">#1abc9c</color>
+    <color name="tealDark">#16a085</color>
+    <color name="greenLight">#2ecc71</color>
+    <color name="greenDark">#27ae60</color>
+    <color name="purpleLight">#9b59b6</color>
+    <color name="purpleDark">#8e44ad</color>
+    <color name="blackLight">#34495e</color>
+    <color name="blackDark">#2c3e50</color>
+    <color name="yellowLight">#f1c40f</color>
+    <color name="yellowDark">#f39c12</color>
+    <color name="orangeLight">#e67e22</color>
+    <color name="orangeDark">#d35400</color>
+    <color name="redLight">#e74c3c</color>
+    <color name="redDark">#c0392b</color>
+    <color name="whiteLight">#ecf0f1</color>
+    <color name="whiteDark">#bdc3c7</color>
+    <color name="greyLight">#95a5a6</color>
+    <color name="greyDark">#7f8c8d</color>
+
+</resources>
